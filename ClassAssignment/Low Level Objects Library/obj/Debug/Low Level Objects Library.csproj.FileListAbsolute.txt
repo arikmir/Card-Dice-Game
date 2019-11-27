@@ -1,0 +1,29 @@
+C:\Users\Arik\Documents\Visual Studio 2015\Projects\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.dll
+C:\Users\Arik\Documents\Visual Studio 2015\Projects\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.pdb
+C:\Users\Arik\Documents\Visual Studio 2015\Projects\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.dll
+C:\Users\Arik\Documents\Visual Studio 2015\Projects\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.pdb
+H:\ClassAssignment\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.dll
+H:\ClassAssignment\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.pdb
+H:\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.dll
+H:\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.pdb
+H:\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.csprojResolveAssemblyReference.cache
+H:\poker\ClassAssignment\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.dll
+H:\poker\ClassAssignment\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.pdb
+H:\poker\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.csprojResolveAssemblyReference.cache
+H:\poker\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.dll
+H:\poker\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.pdb
+E:\ClassAssignment\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.dll
+E:\ClassAssignment\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.pdb
+E:\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.csprojResolveAssemblyReference.cache
+E:\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.dll
+E:\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.pdb
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.dll
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.pdb
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.csprojResolveAssemblyReference.cache
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.dll
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.pdb
+F:\Previous assessments\Class\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.dll
+F:\Previous assessments\Class\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.pdb
+F:\Previous assessments\Class\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.csprojAssemblyReference.cache
+F:\Previous assessments\Class\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.dll
+F:\Previous assessments\Class\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.pdb

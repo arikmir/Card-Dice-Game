@@ -1,0 +1,44 @@
+C:\Users\Arik\Documents\Visual Studio 2015\Projects\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.csprojResolveAssemblyReference.cache
+H:\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.dll
+H:\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.pdb
+H:\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.dll
+H:\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.pdb
+H:\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.dll
+H:\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.pdb
+H:\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.csprojResolveAssemblyReference.cache
+H:\poker\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.dll
+H:\poker\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.pdb
+H:\poker\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.dll
+H:\poker\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.pdb
+H:\poker\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.csprojResolveAssemblyReference.cache
+H:\poker\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.dll
+H:\poker\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.pdb
+E:\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.dll
+E:\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.pdb
+E:\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.dll
+E:\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.pdb
+E:\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.csprojResolveAssemblyReference.cache
+E:\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.dll
+E:\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.pdb
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.dll
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.pdb
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.dll
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.pdb
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.csprojResolveAssemblyReference.cache
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.dll
+C:\Users\n9637567\Desktop\ClassAssignment\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.pdb
+C:\Users\n9637567\Desktop\Class\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.dll
+C:\Users\n9637567\Desktop\Class\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.pdb
+C:\Users\n9637567\Desktop\Class\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.dll
+C:\Users\n9637567\Desktop\Class\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.pdb
+C:\Users\n9637567\Desktop\Class\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.csprojResolveAssemblyReference.cache
+C:\Users\n9637567\Desktop\Class\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.dll
+C:\Users\n9637567\Desktop\Class\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.pdb
+F:\Previous assessments\Class\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.dll
+F:\Previous assessments\Class\ClassAssignment\Games Logic Library\bin\Debug\Games Logic Library.pdb
+F:\Previous assessments\Class\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.dll
+F:\Previous assessments\Class\ClassAssignment\Games Logic Library\bin\Debug\Low Level Objects Library.pdb
+F:\Previous assessments\Class\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.csprojAssemblyReference.cache
+F:\Previous assessments\Class\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.csproj.CopyComplete
+F:\Previous assessments\Class\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.dll
+F:\Previous assessments\Class\ClassAssignment\Games Logic Library\obj\Debug\Games Logic Library.pdb
